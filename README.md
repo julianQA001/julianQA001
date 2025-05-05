@@ -105,3 +105,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="200" />
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/ouhiroshishi/snk/output/github-contribution-grid-snake.svg)
+
