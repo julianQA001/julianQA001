@@ -53,8 +53,9 @@
 我根本不是 remote worker，我是 **remote 被監控 worker**。
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hWZBZjMMuMl7sWeb9M/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" />
 </p>
+
 
 ---
 
@@ -105,6 +106,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="200" />
 </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=IxX_QHay02M" target="_blank">
+    <img src="https://img.youtube.com/vi/IxX_QHay02M/maxresdefault.jpg" alt="Oiia Cat Meme" width="100%">
+  </a>
+</p>
+
 
 ![Snake animation](https://raw.githubusercontent.com/julianQA001/snk/output/github-contribution-grid-snake.svg)
 
