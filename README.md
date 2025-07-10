@@ -116,4 +116,10 @@
 
 ![Snake animation](https://raw.githubusercontent.com/julianQA001/snk/output/github-contribution-grid-snake.svg)
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bsd,deno,bots,ember,emotion,gradle,gulp,nim,pinia,plan9," />
+  </a>
+</p>
+
 
